@@ -104,7 +104,8 @@ object与array相差不大
 
 语法错误可以使用try catch捕获错误  
 
-![MDN文档使用方法](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/try...catch)
+[MDN文档使用方法](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/try...catch)  
+
 <br />
 ---  
 end.
