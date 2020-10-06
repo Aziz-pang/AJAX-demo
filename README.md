@@ -2,8 +2,9 @@
 
 **AJAX:Async JavaScript And XML**
 
-第一步：设置server.js 服务端文件
-第二步：编写 html、css、main.js等响应文件
+第一步：设置server.js 服务端文件  
+第二步：编写 html、css、main.js等响应文件  
+
 <br />
 --- 
 
