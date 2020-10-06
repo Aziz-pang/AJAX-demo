@@ -17,7 +17,7 @@ yarn global add node-dev
 npm i node-dev
 ```
 <br />
---- 
+---  
 
 ## nodejs服务器端响应设置
 
@@ -102,7 +102,8 @@ object与array相差不大
 
 <br />
 
-语法错误可以使用try catch捕获错误
+语法错误可以使用try catch捕获错误  
+
 ![MDN文档使用方法](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/try...catch)
 <br />
 ---  
