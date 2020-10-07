@@ -6,6 +6,7 @@
 第二步：编写 html、css、main.js等响应文件  
 
 <br />
+
 --- 
 
 ## 使用 node-dev 开发
@@ -17,6 +18,7 @@ yarn global add node-dev
 npm i node-dev
 ```
 <br />
+
 ---  
 
 ## nodejs服务器端响应设置
@@ -51,6 +53,7 @@ if (path === '/') {
 <script type="text/javascript" src="/main.js"></script>
 ```
 <br />
+
 ---  
 
 ## 请求相响应的过程
@@ -81,6 +84,7 @@ getXML.onclick = () => {
 }
 ```
 <br />
+
 --- 
 
 ## 总结  
@@ -107,5 +111,7 @@ object与array相差不大
 [MDN文档使用方法](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/try...catch)  
 
 <br />
----  
+
+---   
+
 end.
